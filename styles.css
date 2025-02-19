@@ -1,6 +1,5 @@
-/*  your css code here. If applicable */
-body {
-    font-family: Arial, sans-serif;
+h2{
+	font-weight: bolder;
 }
 
 .testimonial-section {
@@ -13,7 +12,6 @@ body {
     border: 1px solid #ccc;
     background-color: #fff;
     margin-bottom: 20px;
-    border-radius: 5px;
 }
 
 .testimonial-text {
